@@ -1,4 +1,4 @@
-require "rails_helper"
+require 'rails_helper'
 
 RSpec.describe Recipe, type: :model do
   it "can be created with valid data" do
